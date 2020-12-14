@@ -6,14 +6,14 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+(nice)[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+{TRASH}[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
 ## Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
+{TRASH}[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
 [Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
 [Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java
